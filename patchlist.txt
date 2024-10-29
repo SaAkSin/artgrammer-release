@@ -10,3 +10,8 @@ https://github.com/SaAkSin/artgrammer-release/releases/download/sparekorea-wos-v
 [101]
 https://github.com/SaAkSin/artgrammer-release/releases/download/sparekorea-wos-v1.0.1/SpkoreaWOS.exe=
 https://github.com/SaAkSin/artgrammer-release/releases/download/sparekorea-wos-v1.0.1/server.dat=
+
+[102]
+https://github.com/SaAkSin/artgrammer-release/releases/download/sparekorea-wos-v1.0.0/SpkoreaWOS.exe=
+https://github.com/SaAkSin/artgrammer-release/releases/download/sparekorea-wos-v1.0.0/libmysql.dll=
+https://github.com/SaAkSin/artgrammer-release/releases/download/sparekorea-wos-v1.0.0/server.dat=
