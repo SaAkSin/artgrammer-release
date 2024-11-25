@@ -1,2 +1,2 @@
 [valid:version]
-105
+106
