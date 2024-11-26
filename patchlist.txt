@@ -31,3 +31,7 @@ https://github.com/SaAkSin/artgrammer-release/releases/download/sparekorea-wos-v
 [106]
 https://github.com/SaAkSin/artgrammer-release/releases/download/sparekorea-wos-v1.0.6/SpkoreaWOS.exe=
 https://github.com/SaAkSin/artgrammer-release/releases/download/sparekorea-wos-v1.0.6/server.dat=
+
+[107]
+https://github.com/SaAkSin/artgrammer-release/releases/download/sparekorea-wos-v1.0.6/SpkoreaWOS.exe=
+https://github.com/SaAkSin/artgrammer-release/releases/download/sparekorea-wos-v1.0.6/server.dat=
